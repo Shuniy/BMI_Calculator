@@ -1,3 +1,13 @@
 # BMI Calculator 💪
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
+![Screenshot1](images/Screenshot1.png)
+
+![Screenshot2](images/Screenshot2.png)
+
+![Screenshot3](images/Screenshot3.png)
+
+![Screenshot3](images/Screenshot4.png)
+
+![Screenshot3](images/Screenshot5.png)
+
+![Screenshot3](images/Screenshot6.png)
