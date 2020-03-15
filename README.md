@@ -1,5 +1,7 @@
 # BMI Calculator 💪
 
+## Check whether you are normal, overweight and underweight.
+
 ![Screenshot1](images/Screenshot1.png)
 
 ![Screenshot2](images/Screenshot2.png)
