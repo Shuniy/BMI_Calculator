@@ -2,6 +2,15 @@
 
 ## Check whether you are normal, overweight and underweight.
 
+### About the App
+
+**A Flutter app to calculate BMI (Body Mass Index).**
+
+The design reference of the App is taken from [Dribble](https://dribbble.com/).
+
+### Usage
+> ***To calculate BMI and for learning Purposes.***
+
 ![Screenshot1](images/Screenshot1.png)
 
 ![Screenshot2](images/Screenshot2.png)
